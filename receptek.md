@@ -1,2 +1,3 @@
-Palacsinta - sós
-Gúlyásleves
+Palacsinta : lekváros - sós
+Palacsinta
+Madartej
